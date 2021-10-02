@@ -1,5 +1,3 @@
-package quiz_octubre_1;
-
 public class Jugador {
     private String nombre;
     private int codigo;
