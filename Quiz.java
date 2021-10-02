@@ -1,5 +1,3 @@
-package quiz_octubre_1;
-
 import javax.swing.JOptionPane;
 
 public class Quiz {
