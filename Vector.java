@@ -1,5 +1,3 @@
-package quiz_octubre_1;
-
 public class Vector {
     private int size;
     private int count;
